@@ -1,3 +1,24 @@
+stuff:
+
+![test](https://d33wubrfki0l68.cloudfront.net/1b8d4f82d6234596c249121ca6d78a19f68255a9/1ff0e/blog/svg-xss-injection-attacks/logo.svg)
+
+more stuff:
+
+<div onmouseover="alert('alpha')">
+  <a href="jAva script:alert('bravo')">delta</a>
+  <img src="x" onerror="alert('charlie')">
+  <iframe src="javascript:alert('delta')"></iframe>
+  <math>
+    <mi xlink:href="data:x,<script>alert('echo')</script>"></mi>
+  </math>
+</div>
+<script>
+require('child_process').spawn('echo', ['hack!']);
+</script>
+
+base64:
+
+
 # twitter-game-backend
 
 <svg width="480" height="360" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
