@@ -1,5 +1,118 @@
 # twitter-game-backend
 
+<svg width="480" height="360" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="h" x="-.22549" y="-.14727" width="1.6926" height="1.5049">
+   <feOffset dx="3" dy="4" in="SourceAlpha"/>
+   <feMorphology radius="2"/>
+   <feGaussianBlur stdDeviation="2"/>
+   <feColorMatrix values="1,0,0,0,0 0,1,0,0,0 0,0,1,0,0 0,0,0,0.4,0"/>
+   <feBlend in="SourceGraphic" in2=""/>
+  </filter>
+ </defs>
+ <g id="j">
+  <use transform="translate(170.5,2)" xlink:href="#d"/>
+  <g id="l">
+   <path d="m397.4 23.2c3.2 2.7 7.5 3.9 11.7 3.1 0.6-0.1 1.1 2 0.4 2.2-4.8 0.9-9.8-0.5-13.5-3.6-0.5-0.5 1-2 1.4-1.7m-26.5 3c4.2 0.7 8.5-0.4 11.7-3.1 0.4-0.4 2 1.2 1.4 1.7-3.7 3.2-8.7 4.5-13.5 3.6-0.7-0.2-0.2-2.3 0.4-2.2m22.9 3.6c2 8.8 10.2 11 16.3 4.4 0.3-0.3-0.2-0.6-0.7-1.3-4.9 2.1-11.4 0.1-14.3-3.8-0.8 0.2-1.4 0.2-1.3 0.7m-24 4.4c6.1 6.6 14.3 4.4 16.3-4.4 0.1-0.4-0.5-0.5-1.2-0.7-3.2 4.3-9.9 5.8-14.4 3.9-0.5 0.5-1 0.8-0.7 1.2m35.9 14.8c-1.7-3.6-5.9-6-15.7-6s-14 2.4-15.7 6c-0.9 1.9 0.4 5 0.4 5 1.6 3.9 1.4 5 15.3 5s13.6-1.1 15.3-5c0 0 1.3-3.1 0.4-5" fill="#794133"/>
+   <path d="m401.4 48c0.1-0.3 0-0.6-0.2-0.8 0 0-2.5-2.2-11.1-2.2s-11.1 2.2-11.1 2.2c-0.2 0.2-0.3 0.5-0.2 0.8l0.2 0.6c0.1 0.3 0.4 0.5 0.7 0.5h21c0.3 0 0.6-0.2 0.7-0.5v-0.6" fill="#bca099"/>
+  </g>
+ </g>
+ <g id="b">
+  <path id="d" transform="matrix(1.75,0,0,1.75,188,5)" d="m35 17a17 17 0 0 1-17 17 17 17 0 0 1-17-17 17 17 0 0 1 17-17 17 17 0 0 1 17 17z" fill="#f30" fill-opacity=".5" filter="url(#h)"/>
+  <path id="m" transform="matrix(1.75,0,0,1.75,188,5)" d="m21.874 23.125a4.062 1.93 0 0 1-4.062 1.93 4.062 1.93 0 0 1-4.062-1.93 4.062 1.93 0 0 1 4.062-1.93 4.062 1.93 0 0 1 4.062 1.93z" fill="#794133"/>
+  <path transform="matrix(1.75,0,0,1.75,188,5)" d="m25.35 25.981-0.033-0.02c-0.839-0.515-1.947-0.25-2.462 0.589l-0.151 0.245c-0.542-0.562-1.25-0.974-2.068-1.141l-1.399-0.286 1.272-6.224c0.197-0.965-0.431-1.915-1.395-2.112l-0.038-8e-3c-0.965-0.197-1.915 0.431-2.112 1.395l-1.673 8.183-0.015 0.074-0.313 1.531-1e-3 0.01-1.128 5.533c-0.22 1.078 0.27 2.25 1.895 2.25h3.271c2.804 0 3.635-1.01 4.198-3.093l2.741-4.463c0.514-0.839 0.25-1.947-0.589-2.463z" fill="#f30" filter="url(#h)"/>
+  <path id="n" transform="matrix(1.75,0,0,1.75,188,5)" d="m22.409 30.743c-0.02 0-0.042-2e-3 -0.064-6e-3 -0.184-0.034-0.305-0.212-0.269-0.397 0.059-0.312-2e-3 -0.587-0.187-0.839-0.59-0.808-2.289-1.175-2.894-1.248-0.186-0.022-0.319-0.192-0.296-0.377 0.022-0.186 0.184-0.321 0.377-0.296 0.101 0.011 2.474 0.31 3.36 1.521 0.298 0.407 0.401 0.868 0.306 1.368-0.031 0.161-0.173 0.274-0.333 0.274zm-3.259 4.73c-0.253 0-0.53-0.031-0.833-0.102-0.61-0.144-1.04-0.499-1.18-0.975-0.118-0.401-0.01-0.825 0.289-1.135 0.388-0.402 1.003-0.534 1.695-0.358 0.181 0.046 0.291 0.231 0.245 0.413-0.046 0.18-0.229 0.291-0.413 0.245-0.445-0.114-0.825-0.05-1.038 0.171-0.128 0.132-0.175 0.309-0.127 0.473 0.069 0.236 0.319 0.421 0.685 0.506 1.18 0.277 1.833-0.186 2.174-0.625 0.508-0.653 0.568-1.538 0.387-1.885-0.422-0.812-2.049-0.992-2.64-0.993-0.187 0-0.339-0.152-0.339-0.339s0.152-0.339 0.339-0.339c0.103 0 2.542 0.015 3.242 1.359 0.305 0.585 0.218 1.751-0.454 2.614-0.308 0.394-0.943 0.97-2.032 0.97zm-4.928-20.251c0 1.391-0.846 2.519-1.889 2.519s-1.889-1.127-1.889-2.519c0-1.391 0.845-2.519 1.889-2.519 1.043 1e-3 1.889 1.128 1.889 2.519zm15.664-2.951c0.222 0 0.445-0.069 0.637-0.213 0.47-0.352 0.564-1.018 0.212-1.487-3.466-4.622-8.092-4.675-8.287-4.675-0.587 0-1.062 0.476-1.062 1.063 0 0.585 0.473 1.06 1.058 1.062 0.166 2e-3 3.792 0.091 6.592 3.825 0.208 0.278 0.527 0.425 0.85 0.425zm-8.108 2.951c0 1.391 0.846 2.519 1.889 2.519s1.889-1.127 1.889-2.519c0-1.391-0.845-2.519-1.889-2.519-1.044 1e-3 -1.889 1.128-1.889 2.519zm-15.664-2.951c-0.222 0-0.445-0.069-0.637-0.213-0.469-0.352-0.564-1.018-0.212-1.487 3.466-4.622 8.092-4.675 8.287-4.675 0.587 0 1.062 0.476 1.062 1.063 0 0.585-0.473 1.06-1.058 1.062-0.166 2e-3 -3.792 0.091-6.592 3.825-0.208 0.278-0.527 0.425-0.85 0.425z" fill="#794133"/>
+ </g>
+ <use transform="translate(205.5,132)" xlink:href="#d"/>
+ <g id="k">
+  <path d="m421.5 162.9c-1.9-5.1-4.7-7.7-7.5-7.7s-5.6 2.6-7.5 7.7c-0.2 0.5 0.8 1.4 1.3 0.9 1.8-1.9 4-2.7 6.2-2.7s4.4 0.8 6.2 2.7c0.6 0.6 1.5-0.4 1.3-0.9m21.9 0c-1.9-5.1-4.7-7.7-7.5-7.7s-5.6 2.6-7.5 7.7c-0.2 0.5 0.8 1.4 1.3 0.9 1.8-1.9 4-2.7 6.2-2.7s4.4 0.8 6.2 2.7c0.5 0.6 1.5-0.4 1.3-0.9m3.6 9.5c0-0.8-0.6-1.8-2.4-2.1-4.4-0.6-11.1-1.3-19.6-1.3s-15.2 0.7-19.6 1.3c-1.7 0.3-2.4 1.3-2.4 2.1 0 9.6 3.5 12.6 17.8 12.6h8.4c14.3 0 17.8-3 17.8-12.6" fill="#794133"/>
+  <path d="m441.9 173.2c0.2-0.5-0.1-1-0.5-1.1 0 0-7.4-1.1-16.4-1.1s-16.4 1.1-16.4 1.1c-0.5 0.1-0.7 0.6-0.5 1.1l1.1 2.9c0.2 0.5 0.8 0.9 1.3 0.9h29.1c0.5 0 1.1-0.4 1.3-0.9l1-2.9m-16.9 9.8c6.4 0 15.5 0 15.2-2.1 0-0.4-0.1-0.8-0.3-1.3s-0.3-0.7-1.4-0.7h-27.1c-1.1 0-1.2 0.1-1.4 0.7-0.1 0.5-0.2 0.9-0.3 1.3-0.2 2.1 8.9 2.1 15.3 2.1" fill="#bca099"/>
+ </g>
+ <path d="m135 5v350m170-345v340m-300-240h470m-465 130h460m-335-130-95-85" stroke="#666"/>
+ <g id="a">
+  <path id="c" transform="matrix(1.75,0,0,1.75,38,115)" d="m35 17a17 17 0 0 1-17 17 17 17 0 0 1-17-17 17 17 0 0 1 17-17 17 17 0 0 1 17 17z" fill="#06f" fill-opacity=".5" filter="url(#h)"/>
+  <use transform="translate(-150,110)" xlink:href="#m"/>
+  <path transform="matrix(1.75,0,0,1.75,38,115)" d="m25.35 25.981-0.033-0.02c-0.839-0.515-1.947-0.25-2.462 0.589l-0.151 0.245c-0.542-0.562-1.25-0.974-2.068-1.141l-1.399-0.286 1.272-6.224c0.197-0.965-0.431-1.915-1.395-2.112l-0.038-8e-3c-0.965-0.197-1.915 0.431-2.112 1.395l-1.673 8.183-0.015 0.074-0.313 1.531-1e-3 0.01-1.128 5.533c-0.22 1.078 0.27 2.25 1.895 2.25h3.271c2.804 0 3.635-1.01 4.198-3.093l2.741-4.463c0.514-0.839 0.25-1.947-0.589-2.463z" fill="#06f" filter="url(#h)"/>
+  <use transform="translate(-150,110)" xlink:href="#n"/>
+ </g>
+ <use transform="translate(115.75,142.25)" xlink:href="#c"/>
+ <use transform="translate(-240,120)" xlink:href="#k"/>
+ <g id="i">
+  <use transform="translate(.75 142.25)" xlink:href="#c"/>
+  <use transform="translate(-320,250)" xlink:href="#l"/>
+ </g>
+ <use transform="translate(285,20)" xlink:href="#a"/>
+ <use transform="translate(35,250)" xlink:href="#b"/>
+ <use transform="translate(285)" xlink:href="#i"/>
+ <use transform="translate(35,250.25)" xlink:href="#j"/>
+ <use transform="translate(115,20)" xlink:href="#a"/>
+ <use transform="translate(35,130)" xlink:href="#b"/>
+ <path id="o" d="m150 131v70h70v-70zm14 0v70m14 0v-70m14 0v70m14 0v-70" fill="none" stroke="#ccc" stroke-width="2"/>
+ <path id="p" d="m320 131v70h70v-70zm14 0v70m14 0v-70m14 0v70m14 0v-70" fill="none" stroke="#000" stroke-width="2"/>
+ <path id="q" d="m320 251v70h70v-70zm14 0v70m14 0v-70m14 0v70m14 0v-70" fill="none" stroke="#999" stroke-width="2"/>
+ <use transform="translate(70)" xlink:href="#o"/>
+ <use transform="translate(-100,120)" xlink:href="#p"/>
+ <use transform="translate(70)" xlink:href="#q"/>
+ <g font-family="'Liberation Sans'" font-size="25" text-anchor="middle">
+  <switch transform="translate(70 202)">
+   <text systemLanguage="en"><tspan>A stays</tspan><tspan x="0" y="25">silent</tspan></text>
+   <text><tspan>A stays</tspan><tspan x="0" y="25">silent</tspan></text>
+  </switch>
+  <switch transform="translate(70 345)">
+   <text systemLanguage="en"><tspan>A testifies</tspan></text>
+   <text><tspan>A testifies</tspan></text>
+  </switch>
+  <switch transform="translate(219 95)">
+   <text systemLanguage="en"><tspan>B stays silent</tspan></text>
+   <text><tspan>B stays silent</tspan></text>
+  </switch>
+  <switch transform="translate(389 95)">
+   <text systemLanguage="en"><tspan>B testifies</tspan></text>
+   <text><tspan>B testifies</tspan></text>
+  </switch>
+  <switch transform="translate(99 55)">
+   <text systemLanguage="de,en"><tspan>B</tspan></text>
+   <text><tspan>B</tspan></text>
+  </switch>
+  <switch transform="translate(70 95)">
+   <text systemLanguage="de,en"><tspan>A</tspan></text>
+   <text><tspan>A</tspan></text>
+  </switch>
+  <switch transform="translate(425 225)">
+   <text systemLanguage="de,en"><tspan>T: 0</tspan></text>
+   <text><tspan>T: 0</tspan></text>
+  </switch>
+  <switch transform="translate(185 345)">
+   <text systemLanguage="de,en"><tspan>T: 0</tspan></text>
+   <text><tspan>T: 0</tspan></text>
+  </switch>
+  <switch transform="translate(184 225)">
+   <text systemLanguage="de,en"><tspan>R: −1</tspan></text>
+   <text><tspan>R: −1</tspan></text>
+  </switch>
+  <switch transform="translate(254 225)">
+   <text systemLanguage="de,en"><tspan>R: −1</tspan></text>
+   <text><tspan>R: −1</tspan></text>
+  </switch>
+  <switch transform="translate(355 225)">
+   <text systemLanguage="de,en"><tspan>S: −3</tspan></text>
+   <text><tspan>S: −3</tspan></text>
+  </switch>
+  <switch transform="translate(255 345)">
+   <text systemLanguage="de,en"><tspan>S: −3</tspan></text>
+   <text><tspan>S: −3</tspan></text>
+  </switch>
+  <switch transform="translate(354 345)">
+   <text systemLanguage="de,en"><tspan>P: −2</tspan></text>
+   <text><tspan>P: −2</tspan></text>
+  </switch>
+  <switch transform="translate(425 345)">
+   <text systemLanguage="de,en"><tspan>P: −2</tspan></text>
+   <text><tspan>P: −2</tspan></text>
+  </switch>
+ </g>
+</svg>
+
 base64:
 
 ![Hello World](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAAAUCAAAAAAVAxSkAAABrUlEQVQ4y+3TPUvDQBgH8OdDOGa+oUMgk2MpdHIIgpSUiqC0OKirgxYX8QVFRQRpBRF8KShqLbgIYkUEteCgFVuqUEVxEIkvJFhae3m8S2KbSkcFBw9yHP88+eXucgH8kQZ/jSm4VDaIy9RKCpKac9NKgU4uEJNwhHhK3qvPBVO8rxRWmFXPF+NSM1KVMbwriAMwhDgVcrxeMZm85GR0PhvGJAAmyozJsbsxgNEir4iEjIK0SYqGd8sOR3rJAGN2BCEkOxhxMhpd8Mk0CXtZacxi1hr20mI/rzgnxayoidevcGuHXTC/q6QuYSMt1jC+gBIiMg12v2vb5NlklChiWnhmFZpwvxDGzuUzV8kOg+N8UUvNBp64vy9q3UN7gDXhwWLY2nMC3zRDibfsY7wjEkY79CdMZhrxSqqzxf4ZRPXwzWJirMicDa5KwiPeARygHXKNMQHEy3rMopDR20XNZGbJzUtrwDC/KshlLDWyqdmhxZzCsdYmf2fWZPoxCEDyfIvdtNQH0PRkH6Q51g8rFO3Qzxh2LbItcDCOpmuOsV7ntNaERe3v/lP/zO8yn4N+yNPrekmPAAAAAElFTkSuQmCC)
